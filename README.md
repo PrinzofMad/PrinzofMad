@@ -9,7 +9,7 @@
 > German -> 🇩🇪, Arabic -> 🇱🇧 , French -> 🇫🇷 and English -> 🇬🇧
 
 ## 🎲 API:
-> PocketMine-API
+> +-
 
 ## 🧩 MyServerSoftware:
 > LBSNET
