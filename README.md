@@ -2,7 +2,7 @@
 
 ## 🚀 Skills:
 
-> PHP, PYTHON, JAVA, C# and C++
+> PHP, PYTHON, JAVA, C# and C++ {+-
 
 ## 📒 Language:
 
